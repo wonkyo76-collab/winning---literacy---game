@@ -1,0 +1,26 @@
+{
+  "name": "위닝줄넘기와 함께하는 문해력교실",
+  "short_name": "위닝문해력",
+  "description": "최원교 개발 - 초등학생 사자성어 문해력 모바일 교육게임",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eaf8ff",
+  "theme_color": "#087fd0",
+  "lang": "ko-KR",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
